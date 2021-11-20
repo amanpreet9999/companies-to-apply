@@ -135,6 +135,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
 1.   [EyeROV](https://www.eyerov.com/careers/)
+ 
 
 ## F  
 1.   [facebook](https://www.facebook.com/careers/jobs/)  
@@ -319,6 +320,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Stripe](https://stripe.com/in/jobs)  
 1.   [Swiggy](https://careers.swiggy.com/)  
 1.   [Synopsys](https://www.synopsys.com/careers.html)  
+1.   [SS&C EZE Software](https://ezesoft.wd1.myworkdayjobs.com/en-US/EzeSoftCareers/)     
 
 ## T  
 1.   [Target](https://corporate.target.com/careers)  
